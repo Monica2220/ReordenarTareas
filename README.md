@@ -18,8 +18,7 @@ Separación:
 
 Errores:
 
-- Si el usuario escribe texto en vez de un número, el programa avisa.
 - Si el número de tarea no existe, se muestra un mensaje de error.
 - No se permite agregar tareas con descripción vacía.
 
-Autora: Mónica Villaseñor Sanromán
+Nombre autora: Mónica Villaseñor Sanromán
