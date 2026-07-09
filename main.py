@@ -1,9 +1,6 @@
-"""
-main.py
--------
-Punto de entrada del programa.
-Solo controla el bucle del menú y conecta las opciones con la interfaz.
-"""
+
+#main.py
+
 
 import interfaz
 
