@@ -1,10 +1,6 @@
-"""
-interfaz.py
------------
-Responsabilidad: toda la interacción con el usuario.
-Muestra menús y mensajes, lee lo que el usuario escribe y valida
-la entrada. Llama a la lógica, pero no manipula los datos directamente.
-"""
+
+#interfaz.py
+
 
 import logica
 
@@ -19,10 +15,6 @@ def mostrar_menu():
 
 
 def pedir_numero(mensaje):
-    """
-    Pide un número al usuario y controla el error si escribe texto.
-    Devuelve el número (int) o None si la entrada no es válida.
-    """
     entrada = input(mensaje)
     try:
         return int(entrada)
